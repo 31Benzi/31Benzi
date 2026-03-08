@@ -22,21 +22,15 @@
 
 | Project | Link |
 |---|---|
-| Abstract | [abstract.burlone413.it](https://abstract.burlone413.it/) |
-| Better Reload | [github.com/31Benzi/Better-Reload](https://github.com/31Benzi/Better-Reload/tree/main) |
-| FNAF 2D | Coming Soon |
+| 🔷 Abstract | [abstract.burlone413.it](https://abstract.burlone413.it/) |
+| 🔄 Better Reload | [github.com/31Benzi/Better-Reload](https://github.com/31Benzi/Better-Reload/tree/main) |
+| 👻 FNAF 2D | Coming Soon |
 
 ---
 
 ## 📬 Contact Me
 
 You can contact me on Discord: **@dripbenzi**
-
----
-
-## 🎮 What I Like To Do
-
-I like working on OGFN Backends and I also like working on my 2D FNAF Game.
 
 ---
 
