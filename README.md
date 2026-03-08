@@ -8,21 +8,15 @@
 
 ---
 
-## 🎮 What I Like To Do
+## 📊 GitHub Stats
 
-I like working on OGFN Backends and I also like working on my 2D FNAF Game.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=31Benzi&theme=dark&hide_border=false" />
+</p>
 
 ---
 
 ## 👤 About Me
-
-**Languages**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,discordjs,py,html,css&theme=dark" />
-  </a>
-</p>
 
 **What I Work On**
 
@@ -40,11 +34,9 @@ You can contact me on Discord: **@dripbenzi**
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 What I Like To Do
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=31Benzi&theme=dark&hide_border=false" />
-</p>
+I like working on OGFN Backends and I also like working on my 2D FNAF Game.
 
 ---
 
