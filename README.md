@@ -1,4 +1,4 @@
-# Hey there, I'm Benzi 👋
+# Yoo wsp, I'm Benzi 👋
 
 <p align="center">
   <a href="https://skillicons.dev">
